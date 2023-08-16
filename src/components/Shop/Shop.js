@@ -1,7 +1,8 @@
 import React from 'react';
+import fakeData from '../../fakeData/products.json';
 
 const Shop = () => {
-        
+        console.log(fakeData);
     return (
         <div>
             <h1>
